@@ -1,6 +1,7 @@
 # Web Design Challenge
 
 ## OpenWeatherMap API Dashboard
+The main landing page with links to all other pages is published at Github here: https://safetyh546.github.io/Web-Design-Challenge/ <br />
 The landing page has links to individual pages with in depth detail on each area of analysis (Temperature, wind speed, cloudiness, and humidity)<br />
 All pages are responsive and have elements that change on screens below medium size.<br />
 Each page uses media queries to color the full navigation bar only on screens smaller than 600px.<br />
